@@ -5,7 +5,6 @@
 [<img align="left" alt="nakulbageja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>][instagram]
 
 </br>
-</br>
  I'm an upcoming Full Stack Developer!!
 
 - 🌱 I’m currently working on React and NodeJs
@@ -24,9 +23,9 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.ketonium10.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
-
 <img align="left" alt="ketonium10's GitHub Stats" src="https://github-readme-stats.ketonium10.vercel.app/api?username=ketonium10&show_icons=true&hide_border=true&theme=dark" />
+
+![Top Langs](https://github-readme-stats.ketonium10.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 [website]: https://nakulbageja.netlify.app
 [instagram]: https://www.instagram.com/nakulbageja/
