@@ -10,9 +10,9 @@ I'm a Full Stack Web Developer. I love working on various framework, Recently I 
 
 ### Contact me here: 
 
-[<img align="left" alt="https://nakulbageja.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank"/>][website]
-[<img align="left" alt="Nakul Bageha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
-[<img align="left" alt="nakulbageja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>][instagram]
+[<img align="left" alt="https://nakulbageja.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" />][website]
+[<img align="left" alt="Nakul Bageha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
+[<img align="left" alt="nakulbageja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"  />][instagram]
 
 
 </br>
