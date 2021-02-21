@@ -4,6 +4,6 @@
 
 <br/>
 
-<img alt="ketonium10's GitHub Stats" src="https://github-readme-stats.ketonium10.vercel.app/api?username=ketonium10&show_icons=true&hide_border=true&theme=dark" />
+<img alt="ketonium10's GitHub Stats" src="https://github-readme-stats.ketonium10.vercel.app/api?username=nakulBageja&show_icons=true&hide_border=true&theme=dark" />
 
 </div>
