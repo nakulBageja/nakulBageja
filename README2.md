@@ -18,7 +18,7 @@ I'm a Full Stack Web Developer. I love working on various framework, Recently I 
 </br>
 
 ### Stats
-<img align="left" alt="ketonium10's GitHub Stats" src="https://github-readme-stats.nakulBageja.vercel.app/api?username=nakulBageja&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="ketonium10's GitHub Stats" src="https://github-readme-stats.ketonium10.vercel.app/api?username=nakulBageja&show_icons=true&hide_border=true&theme=dark" />
 
 ![Top Langs](https://github-readme-stats.ketonium10.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 
